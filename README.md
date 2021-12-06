@@ -1,4 +1,4 @@
-# System Programming - Project 2 - 2021
+# System Programming - Project 3 - 2021
 
 ## Name: Ioannis
 ## Surname: Georgopoulos
