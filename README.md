@@ -4,7 +4,7 @@
 ## Surname: Georgopoulos
 ## sdi:1115201800026
 
-Το readme.txt περιέχει σχόλια όσων αναφορά την αποστολή δεδομένων μέσω pipes καθώς και σχολιασμό πανώ στην λειτουργία των signals τόσο στο travelmonitorClient όσο και στα monitorsServers ##
+Το readme.txt περιέχει σχόλια όσων αναφορά την αποστολή δεδομένων μέσω pipes καθώς και σχολιασμό πανώ στην λειτουργία των signals τόσο στο travelmonitorClient όσο και στα monitorsServers
 
 Sockets:
 ========
